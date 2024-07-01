@@ -1,0 +1,192 @@
+[
+    {
+        "fqn": "Device Discovery.PowerFlex 7000.Fault Bits",
+        "infoAttributes": [],
+        "dsId": "lmsyep96",
+        "propertyName": "Fault Bits",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"VL_UINT\",\"byteOffset\":8,\"bitOffset\":8,\"bitLength\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 7000.Minor Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsyep96",
+        "propertyName": "Minor Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 7000.Minor Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsyep96",
+        "propertyName": "Minor Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":9}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 7000.Major Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsyep96",
+        "propertyName": "Major Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":10}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 7000.Major Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsyep96",
+        "propertyName": "Major Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":11}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    }
+]

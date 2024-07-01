@@ -1,0 +1,19 @@
+Name: PF755_172_17_8_15_10sec
+Type: DeviceFolder
+Children:
+- Name: UpdateRate
+  Type: BaseDataVariableType
+  DataType: Duration
+  AccessLevel: Read
+  Value: "0:00:00:10.0000000"
+- Name: IPAddress
+  Type: BaseDataVariableType
+  DataType: String
+  AccessLevel: Read
+  Value: "172.17.8.15"
+- Name: PowerFlexType
+  Type: BaseDataVariableType
+  DataType: String
+  AccessLevel: Read
+  Value: "PF755"
+- File: Tags/Tags.yaml

@@ -1,0 +1,2552 @@
+[
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Fault Bits",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Fault Bits",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"VL_UINT\",\"byteOffset\":8,\"bitOffset\":8,\"bitLength\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Minor Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Minor Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Minor Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Minor Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":9}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Major Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Major Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":10}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Major Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Major Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":11}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Drive Temperature.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Drive Temperature.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:943/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Current.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Current.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Frequency.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Frequency.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Power.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Power.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:9/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Output Voltage.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Output Voltage.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:8/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Run Time.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Run Time.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:15/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Cabinet Fan Total Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Cabinet Fan Total Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:482/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Cabinet Fan Elapsed Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Cabinet Fan Elapsed Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:483/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Cabinet Fan Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Cabinet Fan Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:484/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Cabinet Fan Event Level",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Cabinet Fan Event Level",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:485/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Heatsink Fan Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Heatsink Fan Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:491/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Internal Fan Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Internal Fan Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:498/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Motor Bearing Total Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Motor Bearing Total Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:502/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Motor Bearing Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Motor Bearing Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:504/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Machine Bearing Total Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Machine Bearing Total Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:511/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Machine Bearing Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Machine Bearing Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:513/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DINT\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Fault Code",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Fault Code",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"WORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Source DPI Port Number",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Source DPI Port Number",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BYTE\",\"byteOffset\":2}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755.Fault Text",
+        "infoAttributes": [],
+        "dsId": "lmsz4tul",
+        "propertyName": "Fault Text",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"STRING16\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    }
+]

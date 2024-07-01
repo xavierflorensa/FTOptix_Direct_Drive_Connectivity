@@ -1,0 +1,107 @@
+{
+    "@context": [
+        "uri://ra/cgp/config/gateway@2.0.0",
+        {
+            "cgp-conductor-manager": "cgp-conductor-manager",
+            "cgp-adapter-cip": "cgp-adapter-cip"
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "_:application",
+            "@graph": []
+        },
+        {
+            "@id": "_:adapter",
+            "@graph": []
+        },
+        {
+            "@id": "_:concerto",
+            "@graph": []
+        },
+        {
+            "@id": "_:conductor",
+            "@graph": [
+                {
+                    "@id": "ra-boot:cgp-manager",
+                    "@type": "Conductor",
+                    "class": "Conductor",
+                    "name": "cgp-manager",
+                    "options": {
+                        "name": "cgp-manager",
+                        "ip": "127.0.0.1",
+                        "port": "50005",
+                        "commsEnabled": true,
+                        "brokerEnabled": true,
+                        "passthroughEnabled": false,
+                        "passthroughMultiEnabled": false
+                    },
+                    "contextPrefix": "cgp-conductor-manager"
+                }
+            ]
+        },
+        {
+            "@id": "_:opus",
+            "@graph": [
+                {
+                    "@type": "Opus",
+                    "class": "Opus",
+                    "name": "driver-cip",
+                    "options": {
+                        "name": "driver-cip",
+                        "ip": "127.0.0.1",
+                        "port": "50005",
+                        "logConsoleLevel": "INFO"
+                    },
+                    "contextPrefix": "cgp-adapter-cip"
+                }
+            ]
+        },
+        {
+            "@id": "_:library",
+            "@graph": []
+        },
+        {
+            "@id": "_:logger",
+            "@graph": [
+                {
+                    "appenders": {
+                        "verbose": {
+                            "type": "console"
+                        },
+                        "logfile": {
+                            "type": "file",
+                            "filename": "cgp-debug.log",
+                            "maxLogSize": 64000000,
+                            "compress": true,
+                            "backups": 3
+                        }
+                    },
+                    "categories": {
+                        "default": {
+                            "appenders": [
+                                "logfile",
+                                "verbose"
+                            ],
+                            "level": "INFO"
+                        }
+                    },
+                    "verbose": true,
+                    "logfile": true,
+                    "syslog": false,
+                    "winlog": false
+                }
+            ]
+        },
+        {
+            "@id": "_:shell",
+            "@graph": [
+                {
+                    "shellEnabled": true,
+                    "readOnly": false,
+                    "writeOnly": false
+                }
+            ]
+        }
+    ]
+}

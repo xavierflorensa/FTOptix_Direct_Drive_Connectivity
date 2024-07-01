@@ -1,0 +1,4 @@
+Name: Types
+Type: FolderType
+Children:
+- File: DeviceFolder/DeviceFolder.yaml

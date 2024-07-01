@@ -1,0 +1,1556 @@
+[
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Fault Bits",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Fault Bits",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"VL_UINT\",\"byteOffset\":8,\"bitOffset\":8,\"bitLength\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Minor Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Minor Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Minor Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Minor Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":9}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Major Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Major Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":10}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Major Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Major Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":11}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Ctrl Pod Temp",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Ctrl Pod Temp",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:25/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Ctrl Pod Temp.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Ctrl Pod Temp.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:25/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.DC Bus Volts",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "DC Bus Volts",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:3/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.DC Bus Volts.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "DC Bus Volts.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:3/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.AC Line Voltage",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "AC Line Voltage",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:44034/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.AC Line Freq",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "AC Line Freq",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:44033/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Freq",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Freq",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Freq.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Freq.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.V Ref Commanded",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "V Ref Commanded",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:42874/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.V Ref Commanded.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "V Ref Commanded.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:42874/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Current",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Current",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Current.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Current.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Motor Voltage Feedback",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Motor Voltage Feedback",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40971/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Motor Voltage Feedback.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Motor Voltage Feedback.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40971/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Voltage",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Voltage",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Voltage.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Voltage.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Power",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Power",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1030/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Power.Units",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Power.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1030/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Freq Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Freq Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:42858/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Current Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Current Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Freq Min Limit",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Freq Min Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:42859/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Power Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Power Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Output Voltage Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Output Voltage Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41381/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Ready",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Ready",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41314/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":0,\"bitOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Alarm",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Alarm",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41314/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":0,\"bitOffset\":6}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Faulted",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Faulted",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41314/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":0,\"bitOffset\":7}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Running",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Running",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41314/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":3,\"bitOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.InClosePerm",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "InClosePerm",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:1013/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":4,\"bitOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Fault Code",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Fault Code",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"WORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Source DPI Port Number",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Source DPI Port Number",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BYTE\",\"byteOffset\":2}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 6000T.Fault Text",
+        "infoAttributes": [],
+        "dsId": "lmsya6oy",
+        "propertyName": "Fault Text",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"STRING16\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    }
+]

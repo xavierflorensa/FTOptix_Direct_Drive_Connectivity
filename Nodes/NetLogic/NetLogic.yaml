@@ -1,0 +1,104 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- File: DirectDriveConnectivity/DirectDriveConnectivity.yaml
+- Class: DataType
+  Name: UpdateRateEnum
+  Id: g=b821d599779c82ce87550452430be4e7
+  Supertype: Enumeration
+  EnumDefinition: 
+   {
+    "Name": "UpdateRateEnumeration",
+    "DataType": {
+     "IdType": 2,
+     "Id": "b821d599779c82ce87550452430be4e7",
+     "Namespace": 14
+    },
+    "Fields": [{
+      "Name": "Value0",
+      "Value": 0,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "10 seconds"
+      }
+     },{
+      "Name": "Value1",
+      "Value": 1,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "1 minute"
+      }
+     },{
+      "Name": "Value2",
+      "Value": 2,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "2 minutes"
+      }
+     },{
+      "Name": "Value3",
+      "Value": 3,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "5 minutes"
+      }
+     }]
+   }
+  Children:
+  - Name: ns=0;EnumValues
+    Type: BaseDataVariableType
+    DataType: EnumValueType
+    ModellingRule: None
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+    Value: [{"TypeId":{"Id":7594},"Body":{"Value":0,"DisplayName":{"NamespaceIndex":14,"TextId":"10_secondsDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":1,"DisplayName":{"NamespaceIndex":14,"TextId":"1_minuteDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":2,"DisplayName":{"NamespaceIndex":14,"TextId":"2_minutesDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":3,"DisplayName":{"NamespaceIndex":14,"TextId":"5_minutesDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}}]
+- Class: DataType
+  Name: DriverTypeEnum
+  Id: g=40e2bcc8e1fafaa4313d52bdfd6e1f82
+  Supertype: Enumeration
+  EnumDefinition: 
+   {
+    "Name": "DriverTypeEnum",
+    "DataType": {
+     "IdType": 2,
+     "Id": "40e2bcc8e1fafaa4313d52bdfd6e1f82",
+     "Namespace": 14
+    },
+    "Fields": [{
+      "Name": "Value0",
+      "Value": 0,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "PowerFlex 6000T"
+      }
+     },{
+      "Name": "Value1",
+      "Value": 1,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "PowerFlex 7000"
+      }
+     },{
+      "Name": "Value2",
+      "Value": 2,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "PowerFlex 755"
+      }
+     },{
+      "Name": "Value3",
+      "Value": 3,
+      "DisplayName": {
+       "LocaleId": "en-US",
+       "Text": "PowerFlex 755TM"
+      }
+     }]
+   }
+  Children:
+  - Name: ns=0;EnumValues
+    Type: BaseDataVariableType
+    DataType: EnumValueType
+    ModellingRule: None
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+    Value: [{"TypeId":{"Id":7594},"Body":{"Value":0,"DisplayName":{"NamespaceIndex":14,"TextId":"PowerFlex_6000TDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":1,"DisplayName":{"NamespaceIndex":14,"TextId":"PowerFlex_7000DisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":2,"DisplayName":{"NamespaceIndex":14,"TextId":"PowerFlex_755DisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":7594},"Body":{"Value":3,"DisplayName":{"NamespaceIndex":14,"TextId":"PowerFlex_755TMDisplayName"},"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}}]

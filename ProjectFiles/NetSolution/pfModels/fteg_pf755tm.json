@@ -1,0 +1,4058 @@
+[
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Fault Bits",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Fault Bits",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"VL_UINT\",\"byteOffset\":8,\"bitOffset\":8,\"bitLength\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Minor Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Minor Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Minor Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Minor Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":9}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Major Recoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Major Recoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":10}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Major Unrecoverable Fault",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Major Unrecoverable Fault",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:1/cls:1/ins:1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BOOL\",\"byteOffset\":8,\"bitOffset\":11}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Elapsed Run Time.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Elapsed Run Time.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:7/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Control Bay Roof Fan Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Control Bay Roof Fan Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:553/attr:9",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"VL_REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temp Pct",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temp Pct",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Heatsink Temperature Percentage.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Heatsink Temperature Percentage.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41322/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Voltage.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Voltage.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40962/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40963/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Current Max Limit.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Current Max Limit.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40981/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Frequency.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Frequency.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40961/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40964/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Output Power Max Limit.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Output Power Max Limit.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:40982/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DWORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Total Life.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Total Life.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41270/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DWORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Motor Bearing Remaining Life.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Motor Bearing Remaining Life.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41272/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DWORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Total Life.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Total Life.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41281/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"DWORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Value - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Value - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Percent - Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Percent - Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Minimum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Minimum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":8}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Maximum",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Maximum",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":12}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Default",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Default",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"REAL\",\"byteOffset\":16}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Machine Bearing Remaining Life.Units",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Machine Bearing Remaining Life.Units",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:147/ins:41283/attr:7",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"SHORT_STRING\",\"byteOffset\":20}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "DPI",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Fault Code",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Fault Code",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"WORD\",\"byteOffset\":0}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Source DPI Port Number",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Source DPI Port Number",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"BYTE\",\"byteOffset\":2}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    },
+    {
+        "fqn": "Device Discovery.PowerFlex 755TM Inv.Fault Text",
+        "infoAttributes": [],
+        "dsId": "lmsz7ket",
+        "propertyName": "Fault Text",
+        "properties": [
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipData",
+                "value": "",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "cipHealthRequest",
+                "value": "ra-cip://driver-cip/$ip/srv:14/cls:151/ins:1/attr:0",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "deviceMajorVersion",
+                "value": "77",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "extractionDirective",
+                "value": "{\"cipDataType\":\"STRING16\",\"byteOffset\":4}",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "multiplier",
+                "value": "1",
+                "type": "STRING"
+            },
+            {
+                "bin": "DeviceDiscovery",
+                "name": "pluginName",
+                "value": "dpi_trip_fault",
+                "type": "STRING"
+            }
+        ]
+    }
+]

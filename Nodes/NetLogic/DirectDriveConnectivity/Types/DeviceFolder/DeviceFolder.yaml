@@ -1,0 +1,19 @@
+Name: DeviceFolder
+Id: g=d33cd83163924ef294417bf2821751ea
+Supertype: FolderType
+Children:
+- Name: UpdateRate
+  Type: BaseDataVariableType
+  DataType: Duration
+  AccessLevel: Read
+- Name: IPAddress
+  Type: BaseDataVariableType
+  DataType: String
+  AccessLevel: Read
+  Value: "init"
+- Name: PowerFlexType
+  Type: BaseDataVariableType
+  DataType: String
+  AccessLevel: Read
+  Value: "init"
+- File: Tags/Tags.yaml

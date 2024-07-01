@@ -1,0 +1,43 @@
+Name: DirectDriveConnectivity
+Type: FolderType
+Children:
+- File: Types/Types.yaml
+- Name: DriveConnectionDesignTimeNetLogic
+  Type: NetLogic
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Class: Method
+    Name: GetPowerFlexModel
+  - Name: UpdateRate
+    Type: BaseDataVariableType
+    DataType: UpdateRateEnum
+  - Name: IPAddress
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "172.17.8.15"
+  - Name: PowerFlexType
+    Type: BaseDataVariableType
+    DataType: DriverTypeEnum
+    Value: 2
+- Name: DriveConnectionRuntimeNetLogic
+  Type: NetLogic
+- Name: ns=9;LibraryReference
+  Type: ObjectLibraryReference
+  DataType: ObjectLibraryReferenceDataType
+  Value: 
+   {
+    "TypeId": {
+     "Id": 72,
+     "Namespace": 9
+    },
+    "Body": {
+     "libraryGuid": "f0701375ee41467993d632db6a8fdaa5",
+     "objectGuid": "ef1e7c8a2edb44ac9480e48eb1c54583",
+     "objectVersion": 1,
+     "highestIgnoredVersion": 0
+    }
+   }
+- File: PF755_172_17_8_15_10sec/PF755_172_17_8_15_10sec.yaml

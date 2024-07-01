@@ -1,0 +1,24 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [9,2],
+    "Body": [
+     "","en-US",
+     "PowerFlex_755TMDisplayName","PowerFlex 755TM",
+     "5_minutesDisplayName","5 minutes",
+     "10_secondsDisplayName","10 seconds",
+     "PowerFlex_7000DisplayName","PowerFlex 7000",
+     "1_minuteDisplayName","1 minute",
+     "2_minutesDisplayName","2 minutes",
+     "PowerFlex_6000TDisplayName","PowerFlex 6000T",
+     "PowerFlex_755DisplayName","PowerFlex 755"
+    ]
+   }
